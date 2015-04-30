@@ -1,0 +1,38 @@
+header {
+  font-family: arial;
+  padding-top: 20px;
+  padding-left: 50px;
+}
+
+p {
+  color: red;
+  font-family: arial;
+}
+
+section{
+  font-family: arial;
+  }
+
+header h2 {
+  text-align: center;
+}
+
+h1 {
+  font-size: 72px;
+  border: 8px dotted black;
+}
+
+.red {
+  font-size: 72px;
+  padding-left: 50px;
+  color: #C85BD6;
+}
+
+aside section p {
+  font-family: arial;
+}
+
+ul {
+  color: blue;
+  list-style-type: square;
+}
